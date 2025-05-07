@@ -12,3 +12,10 @@
 
 ## 写作规范
 待补充
+
+**github上写作指南**
+https://zhuanlan.zhihu.com/p/3048211224
+**markdown语法介绍**
+https://blog.csdn.net/2301_77569009/article/details/137957203
+**如何插入图片并缩放居中,首行缩进**
+见`pic/1/序.md`
