@@ -23,4 +23,4 @@ https://blog.csdn.net/2301_77569009/article/details/137957203
 
 **如何插入图片并缩放居中,首行缩进**
 
-见`pic/1/序.md`
+见`test.md`
