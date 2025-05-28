@@ -11,6 +11,7 @@ import org.apache.hadoop.hbase.util.Bytes;
  * 演示了HBase表的创建、删除以及数据的插入和删除操作
  */
 public class HBaseTest {
+
     // 定义配置文件的静态变量，用于连接HBase集群
     static Configuration conf = HBaseConfiguration.create();
 
@@ -197,6 +198,7 @@ public class HBaseTest {
      * 主函数，演示HBase操作 - 学生信息和成绩管理示例
      */
     public static void main(String[] args) {
+        
         // 设置ZooKeeper集群地址，注意修改为实际的服务器hostname
         conf.set("hbase.zookeeper.quorum", "m1,m2,m3");
 
