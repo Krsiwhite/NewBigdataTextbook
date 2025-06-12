@@ -8,4 +8,4 @@
  4. 各章节中所展示的代码的源文件（项目文件，包括`pom.xml`），按章节存放在`/code`文件夹中。
    
 
- 仓库网址为：https://github.com/Krsiwhite/NewBigdataTextbook，欢迎大家提出Issues共同改进本书。
+ &emsp;&emsp;仓库网址为：https://github.com/Krsiwhite/NewBigdataTextbook，欢迎大家提出Issues共同改进本书。
