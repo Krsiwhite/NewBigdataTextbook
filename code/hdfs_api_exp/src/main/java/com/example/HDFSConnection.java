@@ -1,4 +1,4 @@
-package hdfs_api_exp.src.main.java.com.example;
+package com.example;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileSystem;

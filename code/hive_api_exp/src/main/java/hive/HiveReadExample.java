@@ -1,4 +1,4 @@
-package hive_api_exp.src.main.java.hive;
+package hive;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

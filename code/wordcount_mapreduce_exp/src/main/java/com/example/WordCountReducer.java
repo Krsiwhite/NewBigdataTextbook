@@ -1,4 +1,4 @@
-package cn.itcast.mapreduce;
+package com.example;
 
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;

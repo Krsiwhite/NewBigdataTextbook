@@ -1,4 +1,4 @@
-package hbase_api_exp.src.main.java.com.example;
+package com.example;
 import java.io.IOException;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.hbase.HBaseConfiguration;
